@@ -4,3 +4,7 @@
 2. `pip install -r requirements.txt`
 3. `./download-world-flags.sh`
 4. Run notebook
+
+## Voilà
+
+![](figures/features.png)
